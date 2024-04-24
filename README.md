@@ -1,3 +1,3 @@
 
-Jupyter Notebook code to compute the K-operator (Mannone, Fazio, Marwan, 2024 to appear) from fMRI data of selected Parkinson's disease patients and healthy controls from the PPMI dataset.
+Jupyter Notebook code to compute the K-operator (Mannone, Fazio, Marwan, 2024 to appear) from fMRI data of selected Parkinson's disease patients and healthy controls from the PPMI dataset. Because of the length and size of the complete code, only a part of it is shown here. All the exploited functions and features are present. By selecting different patients, the visualizations and computations are updated.
 Libraries nilear and dicom2nifti have been used, an in particular, the visualization exploited by S. Hough et al. The computation of the K-operator is original (by M. Mannone).
