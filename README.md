@@ -28,3 +28,7 @@ for i in range(n):
     for j in range(n):
         tensor_product_all_submatrices += create_tensor_product_submatrix(n, i, j)
  result_matrix = tensor_product_all_submatrices
+
+ ----
+
+ As a further update, it is now also computed the K-operator with the purely-elementwise product (Hadamard), which makes the concept more precise.
